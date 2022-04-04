@@ -1,0 +1,217 @@
+.part-one{
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    padding-bottom: 100px;
+}
+
+.awesome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h3{
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: lightgray;
+    display: flex;
+    justify-content: space-between;  
+}
+
+li{
+    margin: 1em;
+    
+}
+
+.fantastic{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 75px;
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 48px;
+    color: white;
+    margin-bottom: 0;
+}
+
+p{
+    display: flex;
+    color: lightgray;
+    margin-top: 0;
+}
+
+.button-sign{
+    display: flex;
+    color: white;
+    background-color: #3882F6;
+    align-items: center;
+    justify-content: center;
+    margin-right: 350px;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    border: 0;
+}
+
+.image{
+    display: flex;
+    background-color: gray;
+    color: white;
+    height: 200px;
+    width: 600px;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.part-two{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 25px;
+}
+
+.some-random{
+    display: flex;
+    font-weight: 900;
+    font-size: 36px;
+    color: black;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.four-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box-item{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+}
+
+.box-actual{
+    display: flex;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-style: solid;
+    border-color: #3883F6;
+}
+
+.box-text{
+    display: block;
+}
+
+.part-three{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom:100px;
+}
+
+.quote{
+   margin-left: auto;
+   margin-right: auto;
+   width: 20em;
+   font-style: italic;
+   font-size: 36px;
+   color: #1F2937; 
+}
+
+.name{
+    display: flex;
+    margin-left: 900px;
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.part-four{
+    display: flex;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    justify-content: center;
+    align-items: center;
+}
+
+.the-call{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #3882F6;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.button-yes{
+    display: flex;
+    color: white;
+    background-color: #3882F6;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: 2px;
+}
+
+.call-action{
+    display: flex;
+    flex-direction: column;
+    padding-right: 16px;
+}
+
+.call-to-text{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: -20px;
+}
+
+
+.part-five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 40px;
+}
